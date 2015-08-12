@@ -41,6 +41,12 @@
 				<key>title</key>
 				<string>X5 App download</string>
 			</dict>
+                       <key>NSAppTransportSecurity</key>
+			<dict>
+    			<!—彻底倒退回不安全HTTP网络请求，能任意进行HTTP请求 —>
+   			 <key>NSAllowsArbitraryLoads</key>
+   			 <true/>
+ 		      </dict>
 		</dict>
 	</array>
 </dict>
