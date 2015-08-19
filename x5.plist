@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://life.wuxibigdata.com/tabViewController.ipa</string>
+					<string>http://life.wuxibigdata.com/LeLife.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lelife.test1</string>
+				<string>com.lelife.LeLife</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>tabViewController.ipa</string>
+				<string>LeLife.ipa</string>
 			</dict>
 		</dict>
 	</array>
